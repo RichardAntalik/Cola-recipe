@@ -15,9 +15,9 @@ For flavors I am using commercially available essential oils, but these can be p
 * 12g 	arabic gum
 * 8dr		orange
 * 4dr		lemon 
-* 1.6g	kardamom (yes, a lot of it)
+* 1.3g	kardamom (yes, a lot of it)
 * 16dr	anise
-* 10dr 	cinnamon
+* 8dr 	cinnamon
 * 2dr		levander
 * 11g		liquorice
   * It is hard to quantify exactly concentration, since I have prepared my own extract from plant. It's very thick, hardly flowing liquid. Viscosity is similar to egg white.
@@ -44,9 +44,10 @@ Because I have started with much higher sugar content, this syrup can be probabl
 * 15g flavor
 * 65g fruit syrup
 * 30-40g caramel
-* 600g sugar 
+* 800-600g sugar 
+	* I would start with 700g or more. I am used to lower sweetness so it's hard to judge.
 	* Original Kofola uses much more sugar - 160g/2l
-	* Could be mixed, I use 250g glucose and 350g sucrose
+	* Could be mixed, I used 250g glucose and 350g sucrose
 * 13g citric acid
 * 14g salt
 * Rest is water
