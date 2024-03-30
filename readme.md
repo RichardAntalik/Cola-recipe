@@ -4,8 +4,8 @@ This recipe is based on Czechoslovakian drink [Kofola](https://www.kofola.cz). I
 I have gathered various sources to get to starting point and from there I have experimented and have done very few A/B comparisons. In the end the recipe is tailored to my preferences.
 Main reason to create this recipe is to control what I consume. I like the drink, but apart from being too sweet, I wanted to remove caffeine from it.
 
-The recipe
-==========
+The recipe (reference)
+======================
 
 Cola Flavor (~90g)
 ------------------
